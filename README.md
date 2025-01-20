@@ -23,4 +23,4 @@ EmailAnalyzer is a Python script that analyzes .eml email files. It extracts imp
   python email_analyzer.py -d path/to/email_directory
   ```
 
-## **Installation**
+
