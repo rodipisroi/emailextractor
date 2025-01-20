@@ -1,4 +1,4 @@
-# emailextractor
+# EmailExtractor
 
 EmailAnalyzer is a Python script that analyzes .eml email files. It extracts important information such as IP addresses, URLs, headers, and attachments.
 
